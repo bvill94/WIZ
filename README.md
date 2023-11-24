@@ -1,5 +1,5 @@
 # WIZ
-A game protoype.
+A game protoype, game build is in WIZ/Build folder.
 
 ## Controls: 
   1. WASD - Movement 
