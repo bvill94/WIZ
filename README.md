@@ -1,0 +1,2 @@
+# WIZ
+A game protoype.
