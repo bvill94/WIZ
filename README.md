@@ -1,8 +1,8 @@
 # WIZ
 A game protoype.
 
-Controls: 
-  WASD - Movement 
-  Right MB - Focus 
-  Left MB - Attack  
-  Q - Switch Weapons
+## Controls: 
+  1. WASD - Movement 
+  2. Right MB - Focus 
+  3. Left MB - Attack  
+  4. Q - Switch Weapons
